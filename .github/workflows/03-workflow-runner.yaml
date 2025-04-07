@@ -14,5 +14,5 @@ jobs:
       - name: Show OS
         shell: bash
         run: |
-          echo "This job is running on an Ubuntu runner"
+          echo "This job is running on an windows runner"
           echo "Runner OS: $RUNNER_OS"
